@@ -1,0 +1,6 @@
+{
+  "name": "QUICKO",
+  "description": "Modern green-and-white themed premium food delivery app UI similar to Swiggy/Zomato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
